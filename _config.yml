@@ -25,7 +25,7 @@ url                      : "https://hyunkyo0830.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "hyunkyo0830/hyunkyo0830.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/assets/images/다운로드.png"
+logo                     : "/assets/image/hhh.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
